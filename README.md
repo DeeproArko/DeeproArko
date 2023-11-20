@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Developing**
 
-- 👨‍💻 All of my projects are available at [https://deeproarko.github.io/DeeproDas.github.io/](https://deeproarko.github.io/DeeproDas.github.io/)
+- 👨‍💻 All of my projects are available at https://github.com/DeeproArko?tab=repositories
 
 - 💬 Ask me about **Front End Developer | HTML, CSS, JS | C&C++ Expert | Object-oriented programming expert | Programmer | Research Novice | Analyze data | Write reports.**
 
