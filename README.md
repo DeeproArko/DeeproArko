@@ -1,4 +1,4 @@
-![logo](https://github.com/DeeproArko/DeeproArko/blob/main/Deepro%20Das.png)
+
 <h1 align="center">Hi 👋, I'm Deepro Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
