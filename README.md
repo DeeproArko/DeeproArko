@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **PHP and Laravel Framework**
 
-- 👯 I’m looking to collaborate on **Front-End Developing**
+- 👯 I’m looking to collaborate on **Full-stack Developing**
 
 - 👨‍💻 All of my projects are available at https://github.com/DeeproArko?tab=repositories
 
-- 💬 Ask me about **Front End Developer | HTML, CSS, JS | C&C++ Expert | Object-oriented programming expert | Programmer | Research Novice | Analyze data | Write reports.**
+- 💬 Ask me about **Full-stack Developer | HTML, CSS, JS, PHP, Laravel, Jqurey | C&C++ Expert | Object-oriented programming expert | Programmer | Research Novice | Analyze data | Write reports.**
 
 - 📫 How to reach me **deeprodas48@gmail.com**
 
