@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Deepro Das</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently Studying at [Department of CSE, Uttara University](https://uttarauniversity.edu.bd/department-of-cse/)
+- 🔭 I’m currently Graduated at [Department of CSE, Uttara University](https://uttarauniversity.edu.bd/department-of-cse/)
 
-- 🌱 I’m currently learning **PHP and Laravel Framework**
+- 🌱 I’m Already Learn **PHP and Laravel Framework**
 
 - 👯 I’m looking to collaborate on **Full-stack Developing**
 
