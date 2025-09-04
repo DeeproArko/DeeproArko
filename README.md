@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently Graduated at [Department of CSE, Uttara University](https://uttarauniversity.edu.bd/department-of-cse/)
 
-- 🌱 I’m Already Learn **PHP and Laravel Framework**
+- 🌱 I’m Already Learn **PHP and Laravel Framework and asp.net mvc**
 
 - 👯 I’m looking to collaborate on **Full-stack Developing**
 
 - 👨‍💻 All of my projects are available at https://github.com/DeeproArko?tab=repositories
 
-- 💬 Ask me about **Full-stack Developer | HTML, CSS, JS, PHP, Laravel, Jqurey | C&C++ Expert | Object-oriented programming expert | Programmer | Research Novice | Analyze data | Write reports.**
+- 💬 Ask me about **Full-stack Developer | HTML, CSS, JS, PHP, Laravel, Jqurey, asp.net | C & C++ and C# Expert | Object-oriented programming expert | Programmer | Research Novice | Analyze data | Write reports.**
 
 - 📫 How to reach me **deeprodas48@gmail.com**
 
